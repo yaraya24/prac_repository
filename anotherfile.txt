@@ -1,8 +1,6 @@
 the
 quick
-brown
-fox
-jumped
+red
 over
 the
-fence
+MOON
