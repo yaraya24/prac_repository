@@ -1,3 +1,0 @@
-We are now in the feature-1 branch
-
-Oh no we are now in the master branch
