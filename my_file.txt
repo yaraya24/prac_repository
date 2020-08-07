@@ -1,0 +1,2 @@
+Don't know what the hell I am writing
+Practice for both Vim and Git
